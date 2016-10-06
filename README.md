@@ -1,2 +1,2 @@
 # coursera-js
-AngularJS test Cousera
+AngularJS test for Cousera
